@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ABSTRACT.UNI/1.0.0": {
+        "runtime": {
+          "ABSTRACT.UNI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABSTRACT.UNI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
